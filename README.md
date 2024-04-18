@@ -5,6 +5,7 @@
 ![Alt text](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/408464/1ffe8e911df07a6fa2d0c1c66e1da236.png)
 ![Alt text](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/413970/1b472f1138b578d9c67b3e8ce5f3180a.png)
 ![Alt text](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/423417/c248060d1d2a69be3862e5fb32bb2489.png)
+<img src="(https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/385178/81764675ef1418c4c58e160be7cac63e.png)" width="400" height="790">
 
 <!--
 **wineperm/wineperm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
