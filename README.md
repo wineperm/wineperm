@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Alt text](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/385178/81764675ef1418c4c58e160be7cac63e.png)
 <!--
 **wineperm/wineperm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
