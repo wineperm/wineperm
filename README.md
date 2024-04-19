@@ -13,7 +13,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/VS-code.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/docker-logo.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/docker.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
 
