@@ -1,13 +1,18 @@
 ### Hi there 👋
 <img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/385178/81764675ef1418c4c58e160be7cac63e.png" width="405" height="262"><img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/391232/a4963a58748759bd67f4b31f16257209.png" width="405" height="262"><img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/399391/3b6e5db6623a6d0a40efc568f87a718a.png" width="405" height="262"><img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/408464/1ffe8e911df07a6fa2d0c1c66e1da236.png" width="405" height="262"><img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/413970/1b472f1138b578d9c67b3e8ce5f3180a.png" width="405" height="262"><img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/423417/c248060d1d2a69be3862e5fb32bb2489.png" width="405" height="262">
 
-### Languages
-![Alt text](svg xmlns="http://www.w3.org/2000/svg" width="16" height="16")
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16"> <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/> </svg>
-<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-  <path d="M200 80c-44.1 0-80 35.9-80 80s35.9 80 80 80c44.1 0 80-35.9 80-80s-35.9-80-80-80zM200 266.7c-33.3 0-60-26.7-60-60s26.7-60 60-60c33.3 0 60 26.7 60 60s-26.7 60-60 60zM160 120c0-22.1 17.9-40 40-40s40 17.9 40 40v80c0 22.1-17.9 40-40 40s-40-17.9-40-40v-80zM240 120c0-22.1 17.9-40 40-40s40 17.9 40 40v80c0 22.1-17.9 40-40 40s-40-17.9-40-40v-80z" fill="#000"/>
-</svg>
+### Languages:
+<p align="left"> 
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" alt="python" width="60" height="40"/> </a> 
+</p>
+### Tools:
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Bash.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
+</p>
 
 <!--
 **wineperm/wineperm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
