@@ -15,7 +15,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-![Alt text](https://github.com/wineperm/wineperm/blob/main/docker.svg)
+![Alt text]("https://github.com/wineperm/wineperm/blob/main/docker.svg" alt="git" width="40" height="40")
 
 
 
