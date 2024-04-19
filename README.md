@@ -14,7 +14,7 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/VS-code.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/docker.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://yandex.cloud/ru/" target="_blank" rel="noreferrer"> <img src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/light/desktop/logo.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://yandex.cloud/ru/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/yandexcloud.png" alt="git" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/jenkins.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/terraform.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/elasticsearch.svg" alt="git" width="40" height="40"/> </a>
