@@ -29,7 +29,7 @@
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/gitlab.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/grafana.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://sentry.io/welcome/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/sentry.svg" alt="git" width="40" height="40"/> </a>
-
+<a href="https://www.influxdata.com/time-series-platform/telegraf/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/influxdb-svgrepo-com.svg" alt="git" width="40" height="40"/> </a>
 
 
 </p>
