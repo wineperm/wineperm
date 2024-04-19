@@ -14,6 +14,23 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/VS-code.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/docker.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://yandex.cloud/ru/" target="_blank" rel="noreferrer"> <img src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/light/desktop/logo.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/jenkins.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/terraform.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/elasticsearch.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/nginx.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/ansible-svgrepo-com.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/kubernetes.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.packer.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/packer.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/atlassian.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/sonarqube-svgrepo-com.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://https://www.jetbrains.com/teamcity/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/TeamCity_Icon.png" alt="git" width="40" height="40"/> </a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/gitlab.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/grafana.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://sentry.io/welcome/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/sentry.svg" alt="git" width="40" height="40"/> </a>
+
+
+
 </p>
 
 
