@@ -27,6 +27,7 @@
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/sonarqube-svgrepo-com.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/teamcity/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/TeamCity_Icon.png" alt="git" width="40" height="40"/> </a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/gitlab.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/1200px-GitHub_Icon.svg.png" alt="git" width="40" height="40"/> </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/grafana.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://sentry.io/welcome/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/sentry.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.influxdata.com/time-series-platform/telegraf/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/influxdb-svgrepo-com.svg" alt="git" width="40" height="40"/> </a>
