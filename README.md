@@ -33,7 +33,7 @@ src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/462721/9
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/grafana.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://sentry.io/welcome/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/sentry.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.influxdata.com/time-series-platform/telegraf/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/influxdb-svgrepo-com.svg" alt="git" width="40" height="40"/> </a>
-
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/wineperm/wineperm/blob/main/postgres.png" alt="git" width="40" height="40"/> </a>
 
 </p>
 
